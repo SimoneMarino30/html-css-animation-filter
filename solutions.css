@@ -47,10 +47,14 @@
     height: 20px;
 }
 /* Esercizio 6 */
-.ex-6-img {
-    transition: 0s;
-}
-
 .ex-6-img:hover {
     filter: grayscale(1);
+}
+/* Esercizio 7 */
+.ex-7-img {
+    transition: 4s;
+}
+
+.ex-7-img:hover {
+    filter: hue-rotate(90deg);
 }
