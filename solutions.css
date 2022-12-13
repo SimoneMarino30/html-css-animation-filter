@@ -58,3 +58,12 @@
 .ex-7-img:hover {
     filter: hue-rotate(90deg);
 }
+/* Esercizio 8 */
+.ex-8-img {
+    transition: 4s;
+}
+
+.ex-8-img:hover {
+    filter: hue-rotate(90deg);
+    border-radius: 50px;
+}
