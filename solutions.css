@@ -67,3 +67,13 @@
     filter: blur(5px) sepia(50%);
     border-radius: 50px;
 }
+/* Esercizio 9 */
+.ex-9-img {
+    transition: 2s;
+}
+
+.ex-9-img:hover {
+    filter: hue-rotate(180deg) blur(1px);
+    border-radius: 50px;
+    scale: .5;
+}
